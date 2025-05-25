@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stipe-Solutions-Assignment/static/css/main.e6c13ad2.css",
+    "main.js": "/Stipe-Solutions-Assignment/static/js/main.396dd6fb.js",
+    "static/js/453.a6a97343.chunk.js": "/Stipe-Solutions-Assignment/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Stipe-Solutions-Assignment/index.html",
+    "main.e6c13ad2.css.map": "/Stipe-Solutions-Assignment/static/css/main.e6c13ad2.css.map",
+    "main.396dd6fb.js.map": "/Stipe-Solutions-Assignment/static/js/main.396dd6fb.js.map",
+    "453.a6a97343.chunk.js.map": "/Stipe-Solutions-Assignment/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.396dd6fb.js"
+  ]
+}
